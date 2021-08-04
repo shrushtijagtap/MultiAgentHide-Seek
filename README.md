@@ -26,3 +26,5 @@ A version of our Q-Table is also included in the files.
 
 https://user-images.githubusercontent.com/53032545/128169329-58ba3f80-7972-46e6-b657-c6805cc3b8d5.mp4
 
+
+Run run.py file for execution
