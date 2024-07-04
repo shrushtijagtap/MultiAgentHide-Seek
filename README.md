@@ -28,3 +28,6 @@ https://user-images.githubusercontent.com/53032545/128169329-58ba3f80-7972-46e6-
 
 
 Run run.py file for execution
+
+
+Link to the Research Paper: https://drive.google.com/file/d/1hpCHP9yhZXMsCD8gK0OR5AUkt7o0O0B9/view?usp=sharing
